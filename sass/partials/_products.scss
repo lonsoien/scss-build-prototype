@@ -1,6 +1,5 @@
-
 .product {
-    background-color: var(--background-dark);
+    background-color: $background-dark;
     border-radius: 15px;
     margin-bottom: 2em;
 }
@@ -10,7 +9,7 @@
 }
 
 .product .btn {
-    background-color: var(--primary-colour);
+    background-color: $primary;
     border: none;
     width: 100%;
 }

@@ -1,18 +1,18 @@
 .form-control {
-    background-color: var(--background-dark);
+    background-color: $background-dark;
     color: white;
     border: none;
     padding: 1.5em;
 }
 
 .contact-form .btn {
-    background-color: var(--primary-colour);
+    background-color: $primary;
     border: none;
     width: 100%;
 }
 
 .list-group-item {
-    background-color: var(--background-dark);
+    background-color: $background-dark;
     border-bottom-color: #707070;
 }
 

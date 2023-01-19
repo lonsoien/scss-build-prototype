@@ -18,14 +18,14 @@
     margin: 15px;
     border-radius: 10px;
     padding: 1.5rem 2rem;
-    background-color: var(--background-dark);
+    background-color: $background-dark;
     display: flex;
     flex-direction: column;
 }
 
 .home-block h3 {
     font-size: 1.2rem;
-    color: var(--primary-colour);
+    color: $primary;
 }
 
 .home-block p {
@@ -35,7 +35,7 @@
 
 .home-block .btn {
     font-size: 0.8rem;
-    background: var(--background-dark);
+    background: $background-dark;
     border: none;
     text-transform: uppercase;
     position: relative;
@@ -48,7 +48,7 @@
     top: 0;
     width: 10px;
     height: 100%;
-    background: var(--primary-colour);
+    background: $primary;
 }
 
 @media (min-width: 992px) {
