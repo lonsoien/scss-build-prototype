@@ -1,6 +1,6 @@
 # scss-build-prototype
 
-Copy of SCSS and Bootstrap lesson CSS Frameworks
+SCSS and Bootstrap lesson - CSS Frameworks
 
 // css folder is not active for compiled settings for sass
 
